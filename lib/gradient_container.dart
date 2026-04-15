@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_lab3_app/dice_roller.dart';
 import 'package:flutter_lab3_app/styled_text.dart';
+import 'package:flutter_lab3_app/dice_roller.dart';
 
 const startAlingment = Alignment.topCenter;
 
